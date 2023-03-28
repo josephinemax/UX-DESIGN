@@ -1,0 +1,51 @@
+h1 {
+    color: wheat; 
+    font-size: 50px;
+    margin-bottom: 3px;
+    background-color: rgb(179, 34, 113);
+    text-align: left;
+ }
+ 
+ /* Define styles for subheadings */
+ h3 {
+     color: rgb(75, 8, 8);
+     font-family: Arial, Helvetica, sans-serif;
+     margin-bottom: 0px;
+     text-decoration: underline;
+     text-align: justify;
+ }
+ 
+ /* Define styles for section headings */
+ h4 {
+     color: wheat;
+     background-color: rgb(179, 34, 113);
+     text-transform: uppercase;
+ }
+ 
+ /* Define styles for subheadings within divs */
+ div h3 {
+     color: rgb(179, 34, 113);
+ }
+ 
+ /* Define styles for paragraphs */
+ p {
+     margin: 3px;
+     margin-block: 0px;
+     border-width: 5px;
+     color: #640404;
+     border-radius: 5cm;
+     column-width: auto;
+     text-align: justify;
+     line-height: 22px;
+ }
+ 
+ /* Define styles for the background */
+ body {
+     background: linear-gradient(100deg, rgb(237, 230, 230), rgb(218, 202, 64));
+ }
+ 
+ 
+ 
+ 
+ 
+ 
